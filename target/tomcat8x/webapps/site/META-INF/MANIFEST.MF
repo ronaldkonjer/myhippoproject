@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: My Hippo Project Site
+Implementation-Version: 0.1.0-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: rkonjer
+Implementation-Vendor-Id: nl.hanos.solutions
+Created-By: Apache Maven 3.2.5
+Build-Jdk: 1.8.0_65
+Implementation-Vendor: 
+

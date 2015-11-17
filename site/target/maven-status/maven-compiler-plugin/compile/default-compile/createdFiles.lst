@@ -1,0 +1,11 @@
+nl\hanos\solutions\beans\Banner.class
+nl\hanos\solutions\beans\Blogpost.class
+nl\hanos\solutions\beans\Account.class
+nl\hanos\solutions\beans\BaseDocument.class
+nl\hanos\solutions\beans\NewsDocument.class
+nl\hanos\solutions\beans\FaqList.class
+nl\hanos\solutions\beans\FaqItem.class
+nl\hanos\solutions\beans\EventsDocument.class
+nl\hanos\solutions\beans\Author.class
+nl\hanos\solutions\beans\ContentDocument.class
+nl\hanos\solutions\beans\Video.class
